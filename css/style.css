@@ -1,0 +1,20 @@
+/* css/style.css */
+/* Minimal custom styles to complement Tailwind theme toggle */
+
+/* Smooth transitions */
+* {
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+/* Utility for dark mode when JS toggles the class on <html> */
+html.light {
+  color-scheme: light;
+}
+html.dark {
+  color-scheme: dark;
+}
+
+/* Small responsive adjustments */
+@media (max-width: 640px) {
+  header nav { display: none; }
+}

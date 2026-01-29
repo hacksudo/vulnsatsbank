@@ -1,0 +1,140 @@
+/* Basic Vulnerable Bank CSS */
+
+/* Global */
+body {
+    margin: 0;
+    padding: 0;
+    background: #0c0c0c;
+    color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+/* Header / Navbar */
+.navbar {
+    background: #111;
+    padding: 15px;
+    text-align: center;
+    border-bottom: 2px solid #444;
+}
+
+.navbar a {
+    color: #0ff900;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.navbar a:hover {
+    color: red;
+}
+
+/* Page Container */
+.container {
+    width: 85%;
+    margin: 20px auto;
+    padding: 20px;
+    background: #141414;
+    border: 1px solid #333;
+    border-radius: 6px;
+}
+
+/* Titles */
+h1, h2, h3 {
+    color: #0ff900;
+}
+
+/* Forms */
+form {
+    margin-top: 20px;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="file"],
+input[type="email"],
+textarea,
+select {
+    width: 300px;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #555;
+    background: #1b1b1b;
+    color: #fff;
+    border-radius: 5px;
+}
+
+button, input[type="submit"] {
+    padding: 10px 20px;
+    background: #0ff900;
+    border: none;
+    color: #000;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover, input[type="submit"]:hover {
+    background: red;
+    color: #fff;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table td, table th {
+    border: 1px solid #555;
+    padding: 10px;
+    text-align: left;
+}
+
+table th {
+    background: #222;
+    color: #0ff900;
+}
+
+/* Alerts / messages */
+.success {
+    color: #00ff00;
+    font-weight: bold;
+}
+
+.error {
+    color: #ff3030;
+    font-weight: bold;
+}
+
+/* Links */
+a {
+    color: #0ff900;
+}
+
+a:hover {
+    color: #ff0000;
+}
+
+/* Blog cards */
+.blog-box {
+    background: #1a1a1a;
+    padding: 15px;
+    border: 1px solid #333;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.blog-box h3 {
+    color: #0ff900;
+}
+
+/* Footer */
+.footer {
+    margin-top: 40px;
+    text-align: center;
+    padding: 15px;
+    background: #111;
+    border-top: 2px solid #444;
+}
