@@ -1,0 +1,8 @@
+# Allow execution of PHP files (INTENTIONALLY VULNERABLE)
+AddType application/x-httpd-php .php .php5 .phtml
+
+# Allow everything
+Options Indexes FollowSymLinks
+
+# Disable security restrictions
+php_flag engine on
