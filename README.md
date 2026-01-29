@@ -75,7 +75,7 @@ with **docker-compose**:
 ```
 sudo apt install docker.io
 sudo apt install -y docker-compose
-git clone https://github.com/hacksudo/63satsvulnbank
+git clone https://github.com/hacksudo/vulnsatsbank
 cd 63satsvulnbank
 sudo docker-compose up -d
 ```
