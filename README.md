@@ -147,14 +147,33 @@ Dockerfile
 
 ---
 ## Author 
-Vishal Waghmare 
-Instagram: https://instagram.com/realvilu
-Linkedin: https://www.linkedin.com/in/realvilu/
-Facebook: https://www.facebook.com/realvilu
-website: https://www.hacksudo.com
-Vulnhub: https://www.vulnhub.com/series/hacksudo,444
-Medium: https://www.hacksudo.medium.com
-Blog: https://www.leetvilu.blogspot.com
+# 👨‍💻 Vishal Waghmare
+
+Cyber Security Researcher | Ethical Hacker | CTF & Lab Developer
+Founder – **Hacksudo**
+
+---
+
+### 🌐 Connect with Me
+
+* 📸 **Instagram:** [@realvilu](https://instagram.com/realvilu)
+* 💼 **LinkedIn:** [linkedin.com/in/realvilu](https://www.linkedin.com/in/realvilu/)
+* 📘 **Facebook:** [facebook.com/realvilu](https://www.facebook.com/realvilu)
+* 🌍 **Website:** [https://www.hacksudo.com](https://www.hacksudo.com)
+
+---
+
+### 🧪 Labs & Platforms
+
+* 🧠 **VulnHub Series:**
+  👉 [Hacksudo on VulnHub](https://www.vulnhub.com/series/hacksudo,444)
+
+---
+
+### ✍️ Writing & Research
+
+* ✒️ **Medium:** [hacksudo.medium.com](https://www.hacksudo.medium.com)
+* 📝 **Blog:** [leetvilu.blogspot.com](https://www.leetvilu.blogspot.com)
 
 ## ⚠️ Disclaimer
 
