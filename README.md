@@ -76,19 +76,19 @@ with **docker-compose**:
 sudo apt install docker.io
 sudo apt install -y docker-compose
 git clone https://github.com/hacksudo/vulnsatsbank
-cd 63satsvulnbank
+cd vulnsatsbank
 sudo docker-compose up -d
 ```
 ### 📥 Pull the Image
 
 ```
-docker pull hacksudo/63satsvulnbank
+docker pull hacksudo/vulnsatsbank
 ```
 
 ### ▶️ Run the Lab
 
 ```
-docker run -d -p 80:80 --name vuln_bank hacksudo/63satsvulnbank
+docker run -d -p 80:80 --name vuln_bank hacksudo/vulnsatsbank
 ```
 
 Or with **docker-compose**:
