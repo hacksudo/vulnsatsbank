@@ -77,7 +77,7 @@ sudo apt install docker.io
 sudo apt install -y docker-compose
 git clone https://github.com/hacksudo/vulnsatsbank
 cd vulnsatsbank
-sudo docker-compose up -d
+sudo docker compose up -d
 ```
 ### 📥 Pull the Image
 
@@ -94,7 +94,7 @@ docker run -d -p 80:80 --name vuln_bank hacksudo/vulnsatsbank
 Or with **docker-compose**:
 
 ```
-docker-compose up -d
+sudo docker compose up -d
 ```
 
 By default, the web app is accessible at:
@@ -146,6 +146,15 @@ Dockerfile
 * Docker / Docker Compose
 
 ---
+## Author 
+Vishal Waghmare 
+Instagram: https://instagram.com/realvilu
+Linkedin: https://www.linkedin.com/in/realvilu/
+Facebook: https://www.facebook.com/realvilu
+website: https://www.hacksudo.com
+Vulnhub: https://www.vulnhub.com/series/hacksudo,444
+Medium: https://www.hacksudo.medium.com
+Blog: https://www.leetvilu.blogspot.com
 
 ## ⚠️ Disclaimer
 
