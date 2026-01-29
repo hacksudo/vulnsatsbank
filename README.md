@@ -1,5 +1,5 @@
 
-# 🏦 Vulnerable Banking Application — 63satsvulnbank
+# 🏦 Vulnerable Banking Application — Vulnsatsbank
 
 **An intentionally vulnerable PHP + MySQL online banking lab for ethical hacking, OWASP Top 10 learning, and VAPT training.**
 
